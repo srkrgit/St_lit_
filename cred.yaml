@@ -1,0 +1,42 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    debu:
+      email: debabrata.tataaig@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: Debabrata
+      password: $2b$12$Qm3jQXuT.GQyyb38jQlL9.S988O1BI1PGwsiKBLKru504EM8QdPGy
+    dny16:
+      email: dny@zxy.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: Dnyandeep
+      password: $2b$12$k39FVNZTnlyT/IL8PD3UzeqLewkzODPRGgjOFfI4NNs4t9r.c47JO
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 4
+      logged_in: false
+      name: John Smith
+      password: $2b$12$uh5x9wcEAW8g1x6fIiQCqOQEzYujjMlH2tmWrHnnhry5fYHYGtWei
+    khushi9931:
+      email: kh@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: 'Khushi '
+      password: $2b$12$piWcD2c1qyQmkdlfvXBoeeNdBr1LxCpSJdG7Pxxy/oVNmDOVCC1Q.
+    rishabh:
+      email: rishabh@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: rishabh
+      password: $2b$12$aAvWF9g7B3MAovspkGx9BuEtMI1jlt/t7e8inYty/IEStF/xIJUHy
+    schouhan:
+      email: chouhanshruti@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Shruti Chouhan
+      password: $2b$12$8dHI6t2TN8DuGUDtTAlT9eYM6ttFilTpqMzsHkLsG.8M4eDi4/tVy
